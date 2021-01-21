@@ -26,8 +26,8 @@ import java.util.Scanner;
  * 5
  *
  * Penjelasan:
- * Dibutuhkan 1 geseran untuk mengubah dadu index 0 agar menunjukkan angka 2 (1 -> 6)
- * Dibutuhkan 2 geseran untuk mengubah dadu index 4 agar menunjukkan angka 2 (5 -> 3 -> 2)
+ * Dibutuhkan 1 geseran untuk mengubah dadu dengan angka 4 agar menunjukkan angka 1 (4 -> 1)
+ * Dibutuhkan 1 geseran untuk mengubah dadu dengan angka 3 agar menunjukkan angka 1 (3 -> 1)
  *
  * Gambar pendukung:
  * http://printables.atozteacherstuff.com/wp-content/uploads/2019/08/cube_outline_dice-768x994.png
